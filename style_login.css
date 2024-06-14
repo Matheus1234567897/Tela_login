@@ -1,0 +1,124 @@
+
+h1{
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content:center;
+ 
+}
+label[for="labelEmail"] {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+label[for="labelSenha"]{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.btn_login{
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-color: rgb(137, 120, 236);
+    background-color: rgb(82, 77, 104);
+    color: white;
+    background: none;
+    border: 1px solid #353535;
+    font-size: 16px;
+    border-radius: 50px;
+    box-shadow: rgb(136 136 136 / 17%) 0px -23px 25px 0px inset,
+      rgb(81 81 81 / 23%) 0px -36px 30px 0px inset,
+      rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+      rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+      rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+      }
+.btn_link{
+    text-decoration:none ; 
+}
+
+#login-email{
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    resize: none;
+    background: none;
+    border: 1px solid #353535;
+    font-size: 16px;
+    border-radius: 50px;
+    overflow-y: hidden;  
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+    box-shadow: rgb(136 136 136 / 17%) 0px -23px 25px 0px inset,
+      rgb(81 81 81 / 23%) 0px -36px 30px 0px inset,
+      rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+      rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+      rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+#login-email::-webkit-scrollbar{
+     display: none;
+}
+#login-email::placeholder{
+    color: white;
+    text-indent: 10px;
+    left: 10px; 
+    height: 20px;
+    width: auto; 
+
+}
+#login-senha {
+    color: white;
+    resize: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    background: none;
+    border: 1px solid #353535;
+    font-size: 16px;
+    border-radius: 50px;
+    overflow-y: hidden;  
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+    box-shadow: rgb(136 136 136 / 17%) 0px -23px 25px 0px inset,
+      rgb(81 81 81 / 23%) 0px -36px 30px 0px inset,
+      rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+      rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+      rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+#login-senha::-webkit-scrollbar {
+    display: none;
+}
+
+#login-senha::placeholder {
+    color: white; 
+    text-indent: 10px;
+    width: auto; 
+ }
+        
+
+  .container{
+    border-radius: 20px;
+    background-color: rgb(30, 30, 31) ;
+    box-shadow: 0px 4px 8px black;
+    padding: 100px;
+    width: 400px;
+    margin: 90px auto;
+   
+   
+   
+   
+}
+body{
+    background-color: #1a1819;
+    
+    
+}

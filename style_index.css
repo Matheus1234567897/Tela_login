@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: 20px;
+   
+}
+.nav-bar{
+    margin: 0 auto;
+    color: white;
+    background-color: black;
+}
